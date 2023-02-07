@@ -1,0 +1,5 @@
+const API_URL = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=f0adec9a2db8c66f34c06d3a56b90536&page=1';
+const IMG_PATH = 'https://image.tmdb.org/t/p/w1280'
+const SEARCH_URL = 'https://api.themoviedb.org/3/search/movie?api_key=f0adec9a2db8c66f34c06d3a56b90536&query="';
+
+// 'https://api.themoviedb.org/3/movie/550?api_key=f0adec9a2db8c66f34c06d3a56b90536'
